@@ -1,2 +1,6 @@
 # Git Practice
 A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+Article Related to Software Development: [New Study on coding behavior raises questions about impact of AI on software development](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/)
+
+I found this article interesting because it brought up the idea that despite AI being able to now generate code, it might not lead to quality code and therefore could create technical debt and code that is hard to maintain. This could contrast people's initial thoughts about AI code generators in that it would lead to more productivity and efficiency. It seems that depending on the context, it could actually be a detriment to extremely complex projects or projects that need to be continuously maintained. The article notes that AI written code can lead to more mistakes and be harder to maintain. It seems that AI code generators should definitely be used with caution and awareness for these potential mistakes.
